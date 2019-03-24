@@ -88,7 +88,7 @@ function updateMoves() {
 }
 
 
-// Open popup when game is complete source: www.w3schools.com
+// Winning Modal
 function findWinner() {
 
   if (matchFound === 8) {
